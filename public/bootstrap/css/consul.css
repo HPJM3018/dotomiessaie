@@ -1,0 +1,48 @@
+.consul{
+		height: 100vh;
+		background-color: #8D3894;
+		padding: 50px;
+	}
+	.consul_gb{
+		position: absolute;
+		top: 150px;
+		right: 60px;
+		border-radius: 15px;
+		background-color: white;
+		height: 500px;
+		width: 80%;
+		box-shadow: 1px 1px 8px 0px hsl(0deg 0% 0% / 20%);
+	}
+	.consul_img{
+		height: 300px;
+		width: 300px;
+		background-color: darkred;
+		border-radius: 15px;
+		background-image: url(../../images/img.jpg);
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+		flex-basis: 30%;
+		box-shadow: 1px 1px 8px 0px hsl(0deg 0% 0% / 20%);
+	}
+
+	.consul_dec{
+		margin-top: 95px;
+		transform: translateX(-15%);
+		display: flex;
+	}
+	.consul_text{
+		padding: 15px;
+		flex-basis: 70%;
+
+	}
+	.rdv_button{
+		padding:5px 15px;
+		border-radius: 20px;
+		background-color: #8D3894;
+		color: white;
+		font-weight: bold;
+		width: fit-content;
+		margin: auto;
+
+	}

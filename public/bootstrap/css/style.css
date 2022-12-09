@@ -1,0 +1,44 @@
+.bg-intimate{
+    background-color: purple;
+}
+.text-intimate{
+    color: purple;
+}
+.card-intimate-h{
+    height: 400px;
+    max-width: 400px;
+}
+.card-intimate-caption{
+bottom: 10%;
+overflow: hidden;
+}
+.prendre input {
+    background-color: white;
+}
+.connexion-card{
+    width: 400px;
+    margin-bottom: 100px;
+}
+.image-intimate-apropos{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.image-intimate-apropos img{
+    width: 300px;
+    height: 300px;
+}
+.equipe-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.equipe-image img{
+    width: 200px;
+    height: 200px;
+}
+.logo{
+    height: 40px;
+}

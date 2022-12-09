@@ -1,0 +1,75 @@
+	body
+{
+  font-family: Verdanna, sans-serif;
+  padding-top: 15px;
+}
+.LoginBox
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin-left:  -150px;
+  margin-top: -150px;
+  /*background: #fff;*/
+  font-size: 14px;
+  box-shadow: 0px 0px 10px rgba(50, 50, 50, 0.5);
+  -moz-box-shadow: 0px 0px 10px rgba(50, 50, 50, 0.5);
+}
+
+#headerWrapper{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height:600px;
+  background-image: url(../images/f4.jpg);
+  background-repeat:no-repeat;
+  background-size: 100% 700px;
+  background-position:top center;
+  background-attachment: fixed;
+}
+
+.LoginBox .Title
+{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.Textbox
+{
+  padding: 5px;
+  border: 1px solid #CCC;
+  border-radius: 3px;
+  display: block;
+  width: 200px;
+}
+
+.LoginBouton
+{
+  padding: 5px 20px;
+  background: #000;
+  color: #FFF;
+  float: left;
+  border: 1px solid #000;
+  border-radius: 3px;
+}
+
+label
+{
+  display: block;
+  float: left;
+  width: 80px;
+}
+
+.e
+{
+  margin-bottom: 10px;
+}
+
+#subm
+{
+  margin-left: 78px;
+}
